@@ -1,0 +1,14 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Idan Mor",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^3.0.1"
+  }
+}
